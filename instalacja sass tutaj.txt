@@ -1,0 +1,1 @@
+--watch E:/XAMPP/htdocs/shop/css/styl.scss:css/styl.css
